@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/manjaro/amxw/study/solib/max.c
+max.h
+/home/manjaro/amxw/study/solib/max.h
+
+/home/manjaro/amxw/study/solib/max.h
+

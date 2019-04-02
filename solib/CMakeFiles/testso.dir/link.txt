@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/testso.dir/testso.cpp.o  -o testso  -L/home/manjaro/amxw/study/solib/. -Wl,-rpath,/home/manjaro/amxw/study/solib/.:/home/manjaro/amxw/study/solib max.so compare.so 

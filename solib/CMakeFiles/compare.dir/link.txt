@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,compare.so -o compare.so CMakeFiles/compare.dir/compare.cpp.o CMakeFiles/compare.dir/compare1.cpp.o  -L/home/manjaro/amxw/study/solib/. 

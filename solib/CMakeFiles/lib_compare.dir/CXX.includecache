@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/manjaro/amxw/study/solib/compare.cpp
+compare.h
+/home/manjaro/amxw/study/solib/compare.h
+
+/home/manjaro/amxw/study/solib/compare.h
+
+/home/manjaro/amxw/study/solib/compare1.cpp
+compare.h
+/home/manjaro/amxw/study/solib/compare.h
+

@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC   -shared -Wl,-soname,lib_max.so -o lib_max.so CMakeFiles/lib_max.dir/max.c.o  -L/home/manjaro/amxw/study/solib/. 

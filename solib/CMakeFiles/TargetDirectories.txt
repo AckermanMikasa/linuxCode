@@ -1,0 +1,5 @@
+/home/manjaro/amxw/study/solib/CMakeFiles/max.dir
+/home/manjaro/amxw/study/solib/CMakeFiles/rebuild_cache.dir
+/home/manjaro/amxw/study/solib/CMakeFiles/testso.dir
+/home/manjaro/amxw/study/solib/CMakeFiles/edit_cache.dir
+/home/manjaro/amxw/study/solib/CMakeFiles/compare.dir
