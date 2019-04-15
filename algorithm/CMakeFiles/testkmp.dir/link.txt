@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/testkmp.dir/testkmp.c.o  -o testkmp  -L/home/manjaro/amxw/study/github/algorithm/. -Wl,-rpath,/home/manjaro/amxw/study/github/algorithm/.:/home/manjaro/amxw/study/github/algorithm kmp.so 

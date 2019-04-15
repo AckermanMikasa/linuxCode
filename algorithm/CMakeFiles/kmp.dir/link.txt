@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g  -shared -Wl,-soname,kmp.so -o kmp.so CMakeFiles/kmp.dir/kmp.c.o  -L/home/manjaro/amxw/study/github/algorithm/. 

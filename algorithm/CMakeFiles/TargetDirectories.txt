@@ -1,0 +1,4 @@
+/home/manjaro/amxw/study/github/algorithm/CMakeFiles/rebuild_cache.dir
+/home/manjaro/amxw/study/github/algorithm/CMakeFiles/edit_cache.dir
+/home/manjaro/amxw/study/github/algorithm/CMakeFiles/testkmp.dir
+/home/manjaro/amxw/study/github/algorithm/CMakeFiles/kmp.dir
