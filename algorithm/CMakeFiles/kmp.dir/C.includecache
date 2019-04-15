@@ -6,3 +6,13 @@
 
 #IncludeRegexTransform: 
 
+/home/manjaro/amxw/study/github/algorithm/kmp.c
+stdio.h
+-
+string.h
+-
+kmp.h
+/home/manjaro/amxw/study/github/algorithm/kmp.h
+
+/home/manjaro/amxw/study/github/algorithm/kmp.h
+

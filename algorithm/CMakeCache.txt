@@ -225,13 +225,13 @@ CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 CMKAE_BUILD_TYPE:UNINITIALIZED=kmpdbg
 
 //build debug version
-DEBUG:BOOL=on
+DEBUG:BOOL=ON
 
 //No help, variable specified on the command line.
 EBUG:UNINITIALIZED=on
 
 //build kmp.so output debug info
-KMPDBG:BOOL=on
+KMPDBG:BOOL=ON
 
 //Value Computed by CMake
 kmp.so_BINARY_DIR:STATIC=/home/manjaro/amxw/study/github/algorithm

@@ -46,7 +46,10 @@ char* kmp(const char* src,const char* target){
 #endif
 	unsigned int ui_src_len=strlen(src);
 	unsigned int ui_src_index=0,ui_target_index=0;
-	while(ui_src_index<ui_src_len){
+	while(ui_src_index<ui_src_len
+			&&
+			ui_src_index<(ui_src_len-ui_target_len)
+			){
 
 		while(ui_target_index<ui_target_len){
 			if(*(src+ui_src_index)!=*(target+ui_target_index)){
@@ -62,8 +65,12 @@ char* kmp(const char* src,const char* target){
 				ui_target_index++;
 			}
 		}
+		if(ui_target_index==ui_target_len){
+			//find the correct position
+			break;
+		}
 	}
 
-	printf("pos result : %u\n",ui_src_index);
+	printf("pos result : %u\n",ui_src_index-ui_target_len);
 	return p_ret;
 }

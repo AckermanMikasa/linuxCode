@@ -7,7 +7,7 @@ endif()
 
 option(DEBUG "build debug version" OFF)
 if(DEBUG)
-	set(CMAKE_BUILD_TYPE "Debug")
+	set(CMAKE_BUILD_TYPE Debug)
 endif()
 
 link_directories(".")
