@@ -1,0 +1,3 @@
+/home/manjaro/amxw/study/github/cpp_study/CMakeFiles/rebuild_cache.dir
+/home/manjaro/amxw/study/github/cpp_study/CMakeFiles/cppio.dir
+/home/manjaro/amxw/study/github/cpp_study/CMakeFiles/edit_cache.dir

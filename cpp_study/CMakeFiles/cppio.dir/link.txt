@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/cppio.dir/cppio.cpp.o  -o cppio  -L/home/manjaro/amxw/study/github/cpp_study/. 
